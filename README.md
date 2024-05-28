@@ -3,7 +3,7 @@
  I have used Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data.
  The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
-## My Approach of the Analysis
+### My Approach of the Analysis
  -Started by Concatenating multiple csv files together to create a new DataFrame(all_data.csv)
  -cleaned-up the data (Droping NaN rows in DataFrame , Removing some rows having unnecessory things , converting columns to desired datatype)
  -After Cleaning up the data I moved on to Data Exploration by asking following  Questions
